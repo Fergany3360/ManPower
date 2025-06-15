@@ -63,6 +63,7 @@ Our cutting-edge AI-powered training program covers:
 - **Customer Service Excellence**
 - **Risk Assessment & Management**
 - **Communication & Reporting Standards**
+- different types of field related training (eg, retail, hospitality, schools , hostpitals ...etc).
 
 ### Advanced Learning Features
 - **Adaptive Learning**: AI adjusts content based on individual progress
