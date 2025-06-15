@@ -433,7 +433,7 @@ const handleChatMessage = async (message, userContext) => {
 
 ## 🚀 Implementation Roadmap
 
-### **Phase 1: Foundation (Months 1-3)**
+### **Phase 1: Foundation 
 #### **🎯 MVP Core Features**
 - ✅ User registration and authentication system
 - ✅ Basic profile creation for guards and clients
@@ -457,7 +457,7 @@ const handleChatMessage = async (message, userContext) => {
 - 95% uptime
 - < 3 second page load times
 
-### **Phase 2: AI Enhancement (Months 4-6)**
+### **Phase 2: AI Enhancement 
 #### **🤖 AI-Powered Features**
 - ✅ Intelligent job matching algorithm
 - ✅ AI-assisted profile optimization
@@ -481,7 +481,7 @@ const handleChatMessage = async (message, userContext) => {
 - 500 registered guards
 - 50 active clients
 
-### **Phase 3: Training Platform (Months 7-9)**
+### **Phase 3: Training Platform
 #### **📚 Learning Management System**
 - ✅ Comprehensive course catalog
 - ✅ Interactive learning modules
@@ -505,7 +505,7 @@ const handleChatMessage = async (message, userContext) => {
 - 95% mobile learning engagement
 - 4.5/5 course satisfaction rating
 
-### **Phase 4: Advanced Analytics (Months 10-12)**
+### **Phase 4: Advanced Analytics 
 #### **📊 Business Intelligence**
 - ✅ Advanced analytics dashboard
 - ✅ Predictive analytics for performance
@@ -531,56 +531,30 @@ const handleChatMessage = async (message, userContext) => {
 
 ---
 
-## 💰 Revenue Model
+## 💰 Revenue Model freemiumn model
 
 ### **Primary Revenue Streams**
 
 #### **1. 🏢 Client Subscription Tiers**
-- **Starter Plan**: $99/month
-  - Up to 5 active job postings
+- **Starter Plan**: $/month
+  - Up to 2 active job postings
   - Basic search and filtering
   - Standard support
   - Basic analytics
 
-- **Professional Plan**: $299/month
+- **Professional Plan**: $$/month
   - Up to 20 active job postings
   - Advanced AI matching
   - Priority support
   - Advanced analytics
   - Custom branding
 
-- **Enterprise Plan**: $999/month
+- **Enterprise Plan**: $$$/month
   - Unlimited job postings
   - Dedicated account manager
   - Custom integrations
   - White-label options
   - Advanced compliance tools
-
-#### **2. 💼 Transaction Fees**
-- **Placement Fee**: 3-5% of first month's salary
-- **Payment Processing**: 2.9% + $0.30 per transaction
-- **Premium Placement**: $50-200 for featured job postings
-
-#### **3. 🎓 Training & Certification**
-- **Course Fees**: $49-199 per course
-- **Certification Programs**: $299-599 per certification
-- **Corporate Training**: $2000-5000 per company program
-- **White-label Training**: $10,000+ setup + revenue share
-
-#### **4. 📊 Data & Analytics**
-- **Market Reports**: $499-2999 per report
-- **API Access**: $0.01-0.10 per API call
-- **Custom Analytics**: $5000+ per implementation
-
-### **Revenue Projections**
-```
-Year 1: $500K (MVP + Early Adoption)
-Year 2: $2.5M (AI Features + Scale)
-Year 3: $8M (Training Platform + Enterprise)
-Year 4: $20M (Advanced Analytics + International)
-Year 5: $45M (Market Leadership + Expansion)
-```
-
 ---
 
 ## 📊 Success Metrics & KPIs
@@ -741,9 +715,3 @@ The Manpower Security Recruitment Platform represents a transformational opportu
 - **For Society**: Enhanced security, job creation, economic development
 
 This PRD serves as the foundation for building a platform that will transform the security recruitment industry and create lasting value for all stakeholders. The roadmap provides a clear path to market leadership while managing risks and ensuring sustainable growth.
-
----
-
-**Document Version**: 1.0  
-**Last Updated**: June 15, 2025  
-**Next Review**: July 15, 2025
