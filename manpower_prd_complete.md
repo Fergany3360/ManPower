@@ -65,26 +65,27 @@ So that I can attract premium employment opportunities.
 **User Stories:**
 - **📝 Profile Creation**: "I want to build my profile with AI assistance so I can present myself professionally"
 - **📄 Document Upload**: "I want to securely upload my certificates and documents for verification"
-- **📸 Photo Portfolio**: "I want to upload professional photos that demonstrate my professional appearance"
+- **📸 Photo Portfolio**: "I want to upload professional photos that demonstrate my full body professional appearance"
 - **🎯 Skills Assessment**: "I want to complete skills assessments to validate my capabilities"
 
 #### **Epic: Certification & Training**
 ```
 As a security professional,
-I want to complete professional training that enhances my skills and marketability,
+I want to complete professional training rewarded with manpower certificate that show case my  skills and marketability,
 So that I can command higher wages and better opportunities.
 ```
 
 **User Stories:**
-- **📚 Course Enrollment**: "I want to enroll in relevant security courses based on my career goals"
+- **📚 Course Enrollment**: "I want to enroll in relevant security online ai tailored / Generated courses based on my security career goals"
 - **🎓 Interactive Learning**: "I want engaging, AI-powered learning experiences that fit my schedule"
 - **📊 Progress Tracking**: "I want to see my learning progress and upcoming milestones"
-- **🏆 Certification Earning**: "I want to earn recognized certifications that clients value"
+- **🏆 Certification Earning**: "I want to earn recognized manpower certifications that clients value"
+- ** I am looking forward to become a ( ManPower) certified security officer with Registered ID.
 
 #### **Epic: Job Discovery & Application**
 ```
 As a security professional,
-I want to discover relevant job opportunities that match my skills and preferences,
+I want to discover relevant job opportunities that match my skills, preferences and my geolocation
 So that I can find work that aligns with my career goals.
 ```
 
@@ -105,7 +106,7 @@ So that I can maintain high security standards for my business.
 
 **User Stories:**
 - **🔍 Advanced Search**: "I want to search for guards by location, skills, availability, and ratings"
-- **📋 Detailed Profiles**: "I want to see comprehensive profiles with photos, certifications, and reviews"
+- **📋 Detailed Profiles**: "I want to see comprehensive profiles with full body photos, certifications,qualifcation, training record and reviews"
 - **📊 Comparison Tools**: "I want to compare multiple guards side-by-side to make informed decisions"
 - **🎯 AI Recommendations**: "I want AI to suggest guards based on my industry and past successful hires"
 
@@ -119,7 +120,7 @@ So that I can focus on my core business operations.
 **User Stories:**
 - **💼 Job Posting**: "I want to post job requirements and receive qualified applications"
 - **📅 Scheduling Integration**: "I want to coordinate schedules with selected guards"
-- **💰 Contract Management**: "I want to manage contracts, payments, and renewals in one place"
+- **💰 Contract Management**: i want to find a ready to print and sing hiring AI generated labor contracts according to geographic complinces"
 - **📈 Performance Tracking**: "I want to track guard performance and provide feedback"
 
 ---
@@ -139,8 +140,8 @@ So that I can focus on my core business operations.
 - ✅ Skills validation and recommendation engine
 
 **Technical Requirements:**
-- Integration with OpenAI API for content suggestions
-- Real-time form validation with Zod
+- Integration with OpenAI API / or other LLMs for content suggestions
+- Real-time form validation with Zod/ or relevant
 - Image upload and optimization with Sharp
 - Profile completeness algorithm
 
@@ -148,11 +149,12 @@ So that I can focus on my core business operations.
 **Description**: Interactive learning platform with AI-generated content, scenarios, and personalized learning paths.
 
 **Acceptance Criteria:**
-- ✅ 14-hour curriculum divided into digestible modules
+- ✅ 12-hour curriculum divided into digestible modules
 - ✅ AI-generated scenario-based questions
 - ✅ Adaptive learning based on performance
 - ✅ Progress tracking with visual indicators
 - ✅ Mobile-responsive design for on-the-go learning
+- ✅ All in Arabic by default, and biligual Arabic-Eglish.
 
 **Technical Requirements:**
 - LMS architecture with course progression tracking
@@ -183,7 +185,7 @@ So that I can focus on my core business operations.
 - ✅ Responsive design optimized for mobile devices
 - ✅ Push notifications for new opportunities
 - ✅ Quick application submission
-- ✅ Real-time chat with potential clients
+- ✅ Real-time AI RAG customer service agent with potential clients
 - ✅ Performance analytics and career insights
 
 **Technical Requirements:**
@@ -199,6 +201,8 @@ So that I can focus on my core business operations.
 
 **Acceptance Criteria:**
 - ✅ Multi-criteria search (location, skills, experience, rating)
+- ✅ Multi-position sellection (eg, security guard, security supervisor , body guard , doorman, professional escort, private security, event security...etc)
+- ✅ Contract type ( eg, part time , full time , seasonal , event, pay per hour , annual contract ...etc )
 - ✅ Save search preferences and alerts
 - ✅ Visual map integration for location-based search
 - ✅ Bulk actions for managing multiple candidates
@@ -219,6 +223,7 @@ So that I can focus on my core business operations.
 - ✅ Performance history visualization
 - ✅ Client reviews and ratings aggregation
 - ✅ Risk assessment scoring
+- ✅ comparing criteria ( qualification, education , body and phyical abilities, training , certified , location....etc)
 
 **Technical Requirements:**
 - Dynamic comparison interface
@@ -321,6 +326,7 @@ const generateCourseContent = async (topic, userLevel, learningStyle) => {
 - **Multi-language Support**: Support Arabic and English
 - **Task Assistance**: Guide users through complex processes
 - **Escalation Intelligence**: Know when to transfer to human support
+- -RAG customer service manager.
 
 **Technical Implementation:**
 ```javascript
@@ -372,13 +378,10 @@ const handleChatMessage = async (message, userContext) => {
 - **Compliance Monitoring**: Continuous compliance monitoring and reporting
 
 ### **Background Check Integration**
-- **Third-party Verification**: Integration with government and private verification services
+- **Third-party Verification**:admin manually verify it through automation.
 - **Document Authentication**: AI-powered document fraud detection
 - **Criminal Background Checks**: Automated background check processing
-- **Reference Verification**: Automated reference check workflows
-- **Ongoing Monitoring**: Continuous monitoring for new criminal records
-
----
+- **Ongoing Monitoring**: Continuous monitoring for new criminal records ( A Reminder to update Criminal records annually ) 
 
 ## 🏗️ Technical Architecture
 
@@ -427,7 +430,7 @@ const handleChatMessage = async (message, userContext) => {
 │ OpenAI GPT-4 │ Claude 3 │ Matching Algorithm │ Content Gen     │
 │ TensorFlow   │ PyTorch  │ MLflow             │ Feature Store   │
 └─────────────────────────────────────────────────────────────────┘
-```
+Deepseek , Ollama locally , mistral locally 
 
 ---
 
@@ -536,20 +539,20 @@ const handleChatMessage = async (message, userContext) => {
 ### **Primary Revenue Streams**
 
 #### **1. 🏢 Client Subscription Tiers**
-- **Starter Plan**: $/month
+- **Starter Plan**: 19$/month
   - Up to 2 active job postings
   - Basic search and filtering
   - Standard support
   - Basic analytics
 
-- **Professional Plan**: $$/month
+- **Professional Plan**: 49$$/month
   - Up to 20 active job postings
   - Advanced AI matching
   - Priority support
   - Advanced analytics
   - Custom branding
 
-- **Enterprise Plan**: $$$/month
+- **Enterprise Plan**: talk to sales $$$/month
   - Unlimited job postings
   - Dedicated account manager
   - Custom integrations
@@ -600,8 +603,9 @@ const handleChatMessage = async (message, userContext) => {
 
 ### **Phase 1: Market Validation (Months 1-3)**
 #### **Target Audience**
-- **Primary**: Small to medium security companies in Cairo and Alexandria
-- **Secondary**: Large retail chains and commercial properties
+- **Primary**: all businesses who need to hire security guards, supervisors , body guards, event guards , close protection..
+- **Secondary**: Large retail chains and commercial properties, schools , hotels , hospitals , shopping centers, all possbile in house hiring companies.
+- security companiens 
 - **Tertiary**: Individual security professionals seeking career advancement
 
 #### **Marketing Channels**
@@ -696,7 +700,7 @@ const handleChatMessage = async (message, userContext) => {
 
 ## 🎉 Conclusion
 
-The Manpower Security Recruitment Platform represents a transformational opportunity to modernize and elevate the security industry in Egypt and beyond. By combining AI-powered technology with deep industry expertise, we can create a platform that delivers exceptional value to both security professionals and the businesses that employ them.
+The Manpower Security Recruitment Platform represents a transformational opportunity to modernize and elevate the security industry in Egypt and beyond. By combining AI-powered technology with deep industry expertise, we will create a platform that delivers exceptional value to both security professionals and the businesses that employ them.
 
 ### **Key Success Factors**
 1. **User-Centric Design**: Deep understanding of user needs and pain points
@@ -712,6 +716,4 @@ The Manpower Security Recruitment Platform represents a transformational opportu
 - **For Guards**: Higher wages, better working conditions, career advancement opportunities
 - **For Clients**: More reliable security services, reduced hiring costs, improved safety
 - **For Industry**: Elevated professional standards, improved reputation, sustainable growth
-- **For Society**: Enhanced security, job creation, economic development
-
-This PRD serves as the foundation for building a platform that will transform the security recruitment industry and create lasting value for all stakeholders. The roadmap provides a clear path to market leadership while managing risks and ensuring sustainable growth.
+- **For Society**: Enhanced security, job creation, economic development.
